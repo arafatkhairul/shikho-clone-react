@@ -10,7 +10,7 @@ const Header = () => {
                     <Menu name="Course" />
                 </div>
             </div>
-            <button className="bg-blue-500 px-4 text-white py-2 rounded-md">Login</button>
+            <button className="bg-pink-500 px-4 text-white py-2 rounded-md">Login</button>
         </header>
     );
 };
