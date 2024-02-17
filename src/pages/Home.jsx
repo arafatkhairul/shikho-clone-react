@@ -1,3 +1,4 @@
+import Academy from "../components/Academy";
 import Hero from "../components/Hero";
 import HeroBox from "../components/HeroBox";
 import LectureSection from "../components/LectureSection";
@@ -13,5 +14,6 @@ export default function Home() {
         <div className="mt-[100px]">
             <LectureSection />
         </div>
+        <Academy />
     </div>)
 }
